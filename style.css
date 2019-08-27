@@ -67,6 +67,11 @@ strong {
   margin-top: 20px;
 }
 
+.footer-text{
+	color: white;
+	margin: 0 auto;
+}
+
 .btn {
   font-weight: 300;
 }
