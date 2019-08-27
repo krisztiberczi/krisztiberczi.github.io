@@ -1,0 +1,123 @@
+
+
+.custom-progress-width {
+	width: 10em
+}
+
+.custom-progress-color {
+	background-color: #d4a5a5;
+	} 
+
+.custom-progress-p {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.profile-pic{
+	width: 150px;
+	margin: 15px auto;
+}
+
+.bg-color{
+  background-color: #f59aa3;
+}
+
+.prof-text{
+  margin-top: 15px;
+}
+
+.social-icon{
+	color: grey;
+	padding: 0 2%;
+}
+
+.navbar-toggler-icon{
+	color: white;
+}
+
+.social-icon:hover{
+	color: #d4a5a5;
+}
+
+.description{
+	background-color: white;
+}
+
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #d4a5a5;
+}
+
+.footer{
+  background-color: #d4a5a5;
+  height: 60px;
+  margin-top: 20px;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #d4a5a5;
+  font-weight: 300;
+}
+
+.mainword {
+  color: #5d5d5a
+}
+
+.card-text {
+  color: #929aab;
+}
+
+.card-block small {
+  float: right;
+  background-color: white;
+}
+
+.description {
+  background-image: pattern.jpg;
+  }
+
+.background-color{
+	background-color: white; 
+}
+
+.font-color{
+	color: #d4a5a5;
+}
+
+.extra-margin {
+	margin-top: 10px
+	}
