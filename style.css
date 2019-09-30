@@ -69,8 +69,12 @@ strong {
 
 .footer-text{
 	color: white;
-	margin: auto 0;
 	text-align: centre;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
 }
 
 .btn {
